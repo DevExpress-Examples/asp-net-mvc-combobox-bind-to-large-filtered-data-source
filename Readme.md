@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/ComboBoxLargeDataBase/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/ComboBoxLargeDataBase/Controllers/HomeController.vb))
+* [MyModel.cs](./CS/ComboBoxLargeDataBase/Model/MyModel.cs) (VB: [MyModel.vb](./VB/ComboBoxLargeDataBase/Model/MyModel.vb))
+* [ComboBoxPartial.cshtml](./CS/ComboBoxLargeDataBase/Views/Home/ComboBoxPartial.cshtml)
+* [Index.cshtml](./CS/ComboBoxLargeDataBase/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # ComboBox - How to filter a large data source and automatically select the first item
 
 
