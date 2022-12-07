@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 namespace ComboBoxLargeDataBase.Model {
     public static class DataHelper {

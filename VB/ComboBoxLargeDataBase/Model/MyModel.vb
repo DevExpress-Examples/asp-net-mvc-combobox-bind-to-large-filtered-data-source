@@ -3,7 +3,7 @@ Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Namespace ComboBoxLargeDataBase.Model
 	Public NotInheritable Class DataHelper
