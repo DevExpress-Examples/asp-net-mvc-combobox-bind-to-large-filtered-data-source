@@ -1,1 +1,1 @@
-<%@ Application Codebehind="Global.asax.vb" Inherits="ComboBoxLargeDataBase.MvcApplication" Language="vb" %>
+<%@ Application Codebehind="Global.asax.vb" Inherits="ComboBoxLargeDataBase.MvcApplication" Language="VB" %>
