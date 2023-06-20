@@ -23,7 +23,8 @@ Namespace ComboBoxLargeDataBase.Model
 					list.Add(New Person(7, "Kyle", "", "Bernardo"))
 					list.Add(New Person(8, "Liz", "", "Bice"))
 
-                    HttpContext.Current.Session("Persons") = list.AsQueryable()
+					Dim query As IQueryable(Of Person) = list.AsQueryable()
+                    			HttpContext.Current.Session("Persons") = query
 				End If
 				Return CType(HttpContext.Current.Session("Persons"), IQueryable(Of Person))
 			End Get
