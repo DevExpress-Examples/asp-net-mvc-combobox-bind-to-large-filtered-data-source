@@ -57,7 +57,7 @@ When a single item remains available after filter operations, the editor's [SetS
 
 * [Combo Box - Custom Binding](https://demos.devexpress.com/MVCxDataEditorsDemos/Editors/LargeDataComboBox)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-combobox-bind-to-large-filtered-data-source&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-combobox-bind-to-large-filtered-data-source&~~~was_helpful=no)
 
